@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>用户名的长度是4到20，且只能是英文
